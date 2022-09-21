@@ -1,4 +1,4 @@
-### Oi! Eu sou o Vitor, bem-vindo ao meu perfil do github 👋
+### Olá meus compatriotas me chamo Vitor e atuo como desenvolvedor Front-end e RPA, sejam todos muito bem-vindos ao meu perfil 👋
 
 <div align="center">
   <a href="https://github.com/JJtankevans">
